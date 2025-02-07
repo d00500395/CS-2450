@@ -9,3 +9,5 @@ Date - 2.1.25 - Subject: SE-2400. I am really struggling with SE-3400. It is not
 Date - 2.3.25 - Subject: Javascript. Starting to get a little bit behind in the Javascript concepts I am being taught. I am good with basic functions but once we get into servers and flask it gets a little bit confusing.
 
 Date - 2.5.25 - Subject: CS-2450. I looked at the code for our group project, it is definitely going to be interesting going through the code and figuring out how to build off it.
+
+Date - 2.7.25 - Subject: CS-2450. This semester has been weird so far, all of my classes seem to be in sync in terms of which weeks have more and less homework. The workload is manageable most of the time and then one day I randomly have way more than I have for a while.
