@@ -17,3 +17,5 @@ Date - 2.10.25 - Subject: Computer Networks. It is really nice how some of the c
 Date - 2.14.25 - Subject: SE-3400. Working on user research and starting to get our subject ready for brainstorming. We are doing a project related to movie watching and picking the best films for a person or group.
 
 Date - 2.20.25 - Subject: CS-2100. Just had my midterm, I didn't study but I think it went fairly well even so. I also took a midterm for my CS-3200 class, and did the presentation for CS-2450. Glad to be done with midterms and ready for a break this weekend!
+
+Date - 2.24.25 - Subject: Internship. This weekend was really nice, getting back into the flow of things now. Work at my internship has been picking up a ton recently, I have had a lot of tickets and a lot of project requests coming in. I honestly can't keep up. It's good though.
