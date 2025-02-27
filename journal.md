@@ -19,3 +19,5 @@ Date - 2.14.25 - Subject: SE-3400. Working on user research and starting to get 
 Date - 2.20.25 - Subject: CS-2100. Just had my midterm, I didn't study but I think it went fairly well even so. I also took a midterm for my CS-3200 class, and did the presentation for CS-2450. Glad to be done with midterms and ready for a break this weekend!
 
 Date - 2.24.25 - Subject: Internship. This weekend was really nice, getting back into the flow of things now. Work at my internship has been picking up a ton recently, I have had a lot of tickets and a lot of project requests coming in. I honestly can't keep up. It's good though.
+
+Date - 2.26.25 - Subject: Internship. Today right as I was about to leave at 5, the whole website crashed. We haven't figured out the cause yet, but it has something to do with a plugin being moved or an update with wordpress that changed some default settings. We were able to get it working by reverting the plugins to the state they were in yesterday and storing them in a different location that the website is picking up.
